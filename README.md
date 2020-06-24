@@ -11,4 +11,4 @@ Download Python [here](https://python.org)
 
 ### Credits
 Created by littleBitsman and nouns, adjectives, thought up by littleBitsman.
-Using a tutorial from  `Coding Projects in Python` book. [Picture (click here)](https://tinyurl.com/codingpythonpasswordpicker) 
+Using a tutorial from  `Coding Projects in Python` book. Get it [here](https://tinyurl.com/codingpythonpasswordpicker) 
