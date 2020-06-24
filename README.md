@@ -1,8 +1,8 @@
-# Password-Picker
+# Password Picker
 A password picker.
 ## Table of Contents
-* Dependencies(#dependcies)
-* Credits(#credits)
+* [Dependencies](#dependcies)
+* [Credits](#credits)
 
 
 Dependencies:
